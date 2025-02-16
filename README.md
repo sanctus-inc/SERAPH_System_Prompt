@@ -19,3 +19,7 @@ We believe that open-sourcing the SERAPH system prompt will:
 *   Enable developers to adapt and improve upon the SERAPH prompt for their own projects.
 
 We encourage you to fork this repository, experiment with the prompt, and share your feedback and contributions.
+
+## Updates
+
+**V7**: The [V7 Prompt](/SERAPH_System_Prompt_V7.txt) is experimental and includes refined instructions for interfaces capable of rendering Mermaid diagrams.
