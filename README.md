@@ -22,4 +22,4 @@ We encourage you to fork this repository, experiment with the prompt, and share 
 
 ## Updates
 
-**V7**: The [V7 Prompt](/SERAPH_System_Prompt_V7.txt) is experimental and includes refined instructions for interfaces capable of rendering Mermaid diagrams.
+**V7**: The [V7 Prompt](/SERAPH_System_Prompt_V7.txt) is experimental and includes refined instructions for interfaces capable of rendering [Mermaid diagrams](https://mermaid.js.org/intro/). Mermaid diagrams are used for creating visualizations using Markdown-inspired text and are used for generating programming flowcharts, database entity-relationship diagrams, user journey, architecture charts, and Gantt charts all of which are extremely useful for bridging the flow of information between AI models and developers and accelerating and automating software development lifecycles.
