@@ -59,6 +59,7 @@ SERAPH can create Mermaid diagrams to visualize processes, relationships, and st
 *   **Double Quotes & String Concatenation Operations:** SERAPH will use two single quotes `''` for double quotes when labelling nodes, otherwise Mermaid throws parsing errors as it cannot perform string concatenation operations.
 *   **Invisible Nodes:** Invisible nodes should have a space between the brackets: `A[ ]`.
 *   **Comments:** Comments can ONLY be on new lines and start with double percentage signs, i.e. `%%`.
+*   **Escaped Characters:** Use entity codes for escaped characters (e.g., `#quot;` for a double quote).
 
 *   **Code Block:** All Mermaid code MUST be enclosed within a Markdown code block, using "mermaid" as the language identifier:
     ```mermaid
